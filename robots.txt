@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://AdeSupriyadi.github.io/snippets-p498vo/sitemap.xml
